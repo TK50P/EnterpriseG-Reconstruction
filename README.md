@@ -1,19 +1,15 @@
-![LSX presents](https://github.com/xLSX285/EnterpriseG/assets/129116755/4957cf9b-42fe-4e70-9a33-d3450cbc9a52)
-
 <div align="center">
 
 ## [Download Latest Version](https://github.com/xLSX285/EnterpriseG/archive/refs/heads/main.zip)
 </div>
 <div align="center">
-  <img src="https://github.com/xLSX285/EnterpriseG/assets/129116755/0eaff5b7-caa8-48e4-898f-cc38254712d6" alt="Image Description">
+  <img src="https://lh6.googleusercontent.com/10QhWThC4u_CE8xkmoDYkuatru3FAVY8KdCAM4AYwQTiKqadxWQGbx4yGZnBN36qbe9bnz4nFCu-O-jHKFhk_-w3WsVZFcGFvpt6YpZnZBYjJGByAVtVqDXN-9dkrXN-wZhvpTm3Kx1LWc6jnqmczCSSVHimJ1IZHwKzA5_U6dbWxQkTdVTn0g=w1280" alt="Image Description">
 </div>
 
 <div align="center">
   
 # How to reconstruct Enterprise G
 </div>
-
-[![EnterpriseG Reconstruction Guide](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=K69L4DROtlc "EnterpriseG Reconstruction Guide")
 
 `All you need to provide is:`
 - Windows 10/11 Pro en-US install.wim image without updates (XXXXX.1)
