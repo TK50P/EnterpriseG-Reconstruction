@@ -13,9 +13,9 @@
 </div>
 
 `All you need to provide is:`
-- Windows 10/11 Pro en-US install.wim image without updates (XXXXX.1)
+- Windows 10/11 Pro en-US install.wim image **without** updates (XXXXX.1)
 
-> [**UUP Dump**](https://uupdump.net/) can create a Windows Pro ISO in en-US without updates (untick the **Include updates (Windows converter only)** box).
+> [**UUP Dump**](https://uupdump.net/) can create a Windows Pro ISO in en-US **without** updates (untick the **Include updates (Windows converter only)** box).
 > 
 **Hot tip:** If you build a fresh ISO using UUP Dump, set `AppsLevel` to **1** inside `ConvertConfig.ini`, this will only install Windows Security and the Microsoft Store as apps preinstalled! Additionally, on 26100 and later, setting `SkipEdge` to **1** wont preinstall Microsoft Edge or Webview.
 > 
