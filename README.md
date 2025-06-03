@@ -28,9 +28,9 @@ Supported Builds:
 2. Adjust config.json if necessary
 3. Run **Build.ps1** in PowerShell as Administrator
 
-> Run this command in Powershell if Build.ps1 is not starting. **Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass**
+> Run this command in Powershell if Build.ps1 is not starting. `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
 > 
-Once the reconstruction process is complete, you will find the new `install.wim` file in the same folder where you placed the original install.wim file. (**Please note:** your original `install.wim` file has been overwritten and cannot be restored!)
+Once the reconstruction process is complete, you will find the new `install.wim` file in the same folder where you placed the original install.wim file. (**Please note:** your original `install.wim` file has been overwritten and **cannot be restored!**)
 To proceed, you can create a new ISO using AnyBurn or any similar software. If you have already created a bootable Windows installation USB drive, simply copy the new `install.wim` file and replace the existing one located in the `sources` directory of your USB drive.
 >
 <div align="center">
