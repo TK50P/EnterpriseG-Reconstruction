@@ -3,7 +3,8 @@
 ## [Download Latest Version](https://github.com/xLSX285/EnterpriseG/archive/refs/heads/main.zip)
 </div>
 <div align="center">
-  <img src="https://lh6.googleusercontent.com/10QhWThC4u_CE8xkmoDYkuatru3FAVY8KdCAM4AYwQTiKqadxWQGbx4yGZnBN36qbe9bnz4nFCu-O-jHKFhk_-w3WsVZFcGFvpt6YpZnZBYjJGByAVtVqDXN-9dkrXN-wZhvpTm3Kx1LWc6jnqmczCSSVHimJ1IZHwKzA5_U6dbWxQkTdVTn0g=w1280" alt="Image Description">
+  <img src="https://github.com/user-attachments/assets/1c8522f7-c557-4171-8827-111af27b9a38" alt="Image Description">
+
 </div>
 
 <div align="center">
@@ -19,7 +20,7 @@
 **Hot tip:** If you build a fresh ISO using UUP Dump, set `AppsLevel` to **1** inside `ConvertConfig.ini`, this will only install Windows Security and the Microsoft Store as apps preinstalled! Additionally, on 26100 and later, setting `SkipEdge` to **1** wont preinstall Microsoft Edge or Webview.
 > 
 Supported Builds: 
-- [17763](https://uupdump.net/download.php?id=6ce50996-86a2-48fd-9080-4169135a1f51&pack=en-us&edition=professional) (1809), [19041](https://uupdump.net/download.php?id=a80f7cab-84ed-43f4-bc6b-3e1c3a110028&pack=en-us&edition=professional) (2004), [22000](https://uupdump.net/download.php?id=6cc7ea68-b7fb-4de1-bf9b-1f43c6218f6f&pack=en-us&edition=professional) (21H2), [22621](https://uupdump.net/download.php?id=356c1621-04e7-4e66-8928-03a687c3db73&pack=en-us&edition=professional) (22H2 & 23H2) & [26100](https://uupdump.net/download.php?id=3d68645c-e4c6-4d51-8858-6421e46cb0bb&pack=en-us&edition=professional) (24H2)
+- [17763](https://uupdump.net/download.php?id=6ce50996-86a2-48fd-9080-4169135a1f51&pack=en-us&edition=professional) (1809), [18363](https://uupdump.net/download.php?id=d371aab7-52f8-45f3-b2a4-a417d8e54cb5&pack=en-us&edition=professional) (1903), [19041](https://uupdump.net/download.php?id=a80f7cab-84ed-43f4-bc6b-3e1c3a110028&pack=en-us&edition=professional) (2004), [22000](https://uupdump.net/download.php?id=6cc7ea68-b7fb-4de1-bf9b-1f43c6218f6f&pack=en-us&edition=professional) (21H2), [22621](https://uupdump.net/download.php?id=356c1621-04e7-4e66-8928-03a687c3db73&pack=en-us&edition=professional) (22H2) & [26100](https://uupdump.net/download.php?id=3d68645c-e4c6-4d51-8858-6421e46cb0bb&pack=en-us&edition=professional) (24H2)
 
 
 `How to get started:`
