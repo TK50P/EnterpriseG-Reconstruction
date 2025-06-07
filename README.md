@@ -1,5 +1,8 @@
 <div align="center">
 
+## Note
+This project is a revival of xLSX285's original work. All original repositories have been forked or migrated to this repo for continued maintenance and usage.
+
 ## [Download Latest Version](https://github.com/xLSX285/EnterpriseG/archive/refs/heads/main.zip)
 </div>
 <div align="center">
