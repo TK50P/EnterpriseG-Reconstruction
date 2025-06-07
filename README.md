@@ -56,7 +56,8 @@ To proceed, you can create a new ISO using AnyBurn or any similar software. If y
 
 - Inplace upgrade might get undone/reverted on some builds of Windows (e.g 19041 -> 22000/22621.) (looking for a fix)
 - Windows might not be activated on 26100 installs due to the new setup in 24H2 (Workaround: Use previous setup or activate windows using MAS afterwards)
-- No ARM64 or 32 Bit support. This project only covers X86_64/AMD64 (64 Bit PCs support only)
+- No ARM64 support. x86 can be reconstructed with editing scripts and mum files. However this project only covers X86_64/AMD64 (64 Bit PCs support only) yet.
+- No Reconstructions possible under 17763 (1809). while 1703 initiately introduced EnterpriseG Editionspectific ESD, but can't be reconstructed.
 <div align="center">
 
 # Please note that...
